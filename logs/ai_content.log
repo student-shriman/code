@@ -1,0 +1,665 @@
+2024-01-16 16:29:42,758 - add_ai_content - INFO - Logger is activated
+2024-01-16 16:29:42,758 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:29:44,036 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:29:44,036 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:29:44,038 - add_ai_content - INFO - Processing subject - Chemistry
+2024-01-16 16:29:44,038 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:29:44,283 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:29:44,283 - add_ai_content - INFO - Chapters list for subject - Chemistry has been retrieved successfully .. 
+2024-01-16 16:29:44,284 - add_ai_content - INFO - Processing Chapter - 0  :  Types of Solutions
+2024-01-16 16:29:44,284 - add_ai_content - INFO - Triggering Topics selection process..
+2024-01-16 16:29:44,284 - add_ai_content - INFO - Processing 0th topic - Solid solutions
+2024-01-16 16:29:44,284 - add_ai_content - INFO - Processing 0th topic - Solid solutions
+2024-01-16 16:32:14,296 - add_ai_content - INFO - Logger is activated
+2024-01-16 16:37:04,429 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:37:04,611 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:37:04,611 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:37:35,950 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:37:36,087 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:37:36,087 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:37:36,087 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:37:36,087 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:37:36,373 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:37:36,373 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:37:44,130 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:37:44,278 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:37:44,278 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:37:44,278 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:37:44,278 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:37:44,586 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:37:44,586 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:38:29,499 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:38:29,648 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:38:29,648 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:38:29,649 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:38:29,649 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:38:29,911 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:38:29,912 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:48:01,122 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:48:02,409 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:48:02,409 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:48:02,409 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:48:02,409 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:48:02,703 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:48:02,703 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:48:47,292 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:48:47,452 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:48:47,453 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:48:47,453 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:48:47,453 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:48:47,763 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:48:47,763 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:49:50,761 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:49:50,889 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:49:50,889 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:49:50,890 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:49:50,890 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:49:51,137 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:49:51,137 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:50:50,264 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:50:50,404 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:50:50,404 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:50:50,405 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:50:50,405 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:50:50,691 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:50:50,691 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:51:11,014 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:51:11,158 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:51:11,158 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:51:11,158 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:51:11,158 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:51:11,437 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:51:11,437 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:51:18,772 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:51:18,915 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:51:18,915 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:51:18,915 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:51:18,915 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:51:19,202 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:51:19,202 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:52:25,382 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:52:25,503 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:52:25,503 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:52:25,503 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:52:25,503 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:52:25,772 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:52:25,772 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:52:36,572 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:52:36,711 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:52:36,711 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:52:36,711 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:52:36,711 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:52:36,985 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:52:36,985 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:52:50,480 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:52:50,637 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:52:50,637 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:52:50,637 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:52:50,637 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:52:50,884 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:52:50,884 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:53:39,599 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:53:39,772 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:53:39,773 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:53:39,773 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:53:39,773 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:53:40,026 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:53:40,026 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:53:54,365 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:53:54,488 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:53:54,489 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:53:54,489 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:53:54,489 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:53:54,748 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:53:54,748 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:54:40,046 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:54:40,180 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:54:40,180 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:54:40,180 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:54:40,180 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:54:40,441 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:54:40,441 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:54:54,439 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:54:54,582 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:54:54,582 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:54:54,582 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:54:54,582 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:54:54,844 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:54:54,844 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 16:55:07,862 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 16:55:07,988 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 16:55:07,988 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 16:55:07,988 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 16:55:07,988 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 16:55:08,236 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 16:55:08,236 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:04:17,998 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:04:18,262 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:04:18,262 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:04:18,262 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:04:18,262 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:04:18,542 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:04:18,542 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:04:55,615 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:04:55,743 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:04:55,743 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:04:55,743 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:04:55,743 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:04:56,049 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:04:56,049 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:05:41,887 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:05:42,025 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:05:42,025 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:05:42,025 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:05:42,025 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:05:42,293 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:05:42,293 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:07:59,175 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:07:59,367 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:07:59,367 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:07:59,367 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:07:59,367 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:07:59,623 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:07:59,624 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:14:11,852 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:14:13,097 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:14:13,097 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:14:13,097 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:14:13,097 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:14:13,398 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:14:13,398 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:15:22,565 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:15:22,685 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:15:22,685 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:15:22,686 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:15:22,686 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:15:22,988 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:15:22,988 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:18:56,918 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:18:57,065 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:18:57,065 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:18:57,065 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:18:57,065 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:18:57,328 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:18:57,328 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:20:06,369 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:20:06,606 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:20:06,607 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:20:06,608 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:20:06,744 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:20:06,745 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:20:06,745 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:20:06,745 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:20:07,075 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:20:07,075 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:21:03,180 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:21:03,406 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:21:03,406 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:21:03,408 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:21:03,592 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:21:03,592 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:21:03,592 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:21:03,592 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:21:03,963 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:21:03,963 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:30:14,666 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:30:14,916 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:30:14,916 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:30:14,918 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:30:15,062 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:30:15,063 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:30:15,063 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:30:15,063 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:30:15,366 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:30:15,366 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:30:39,076 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:31:04,945 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:31:33,043 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:32:05,887 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:34:32,793 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:34:33,165 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:34:33,166 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:34:33,167 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:34:33,282 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:34:33,282 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:34:33,282 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:34:33,282 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:34:33,552 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:34:33,552 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:34:55,837 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:35:31,691 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:36:04,216 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:36:37,926 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:37:03,799 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:37:26,717 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:40:24,040 - add_ai_content - INFO - Logger is activated
+2024-01-16 17:40:24,081 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:40:25,065 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:40:25,065 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:40:25,068 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:40:25,186 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:40:25,186 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:40:25,186 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:40:25,186 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:40:25,460 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:40:25,460 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:44:44,016 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:44:44,169 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:44:44,169 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:44:44,170 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:44:44,345 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:44:44,345 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:44:44,345 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:44:44,345 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:44:44,726 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:44:44,726 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:46:21,237 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:46:21,431 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:46:21,431 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:46:21,433 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:46:21,613 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:46:21,613 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:46:21,613 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:46:21,613 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:46:21,849 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:46:21,849 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:46:47,341 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:47:16,877 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:47:42,051 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:48:14,813 - add_ai_content - INFO - Explanation generated ..
+2024-01-16 17:49:41,810 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:49:42,010 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:49:42,010 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:49:42,010 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:49:42,010 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:49:42,252 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:49:42,252 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 17:51:03,074 - add_ai_content - INFO - Logger is activated
+2024-01-16 17:58:31,079 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 17:58:31,297 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 17:58:31,297 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 17:58:31,297 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 17:58:31,297 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 17:58:31,528 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 17:58:31,529 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:01:46,207 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:01:46,499 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:01:46,499 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:01:46,499 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:01:46,499 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:01:46,747 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:01:46,747 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:04:10,058 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:04:10,058 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:04:29,607 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:04:29,607 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:04:30,971 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:04:30,971 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:04:30,971 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:04:31,322 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:04:31,322 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:04:31,322 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:04:31,322 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:05:04,418 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:05:04,418 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:05:04,556 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:05:04,556 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:05:04,556 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:05:04,941 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:05:04,941 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:05:04,942 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:05:04,942 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:07:55,351 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:07:55,351 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:07:55,351 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:07:56,561 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:07:56,561 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:07:56,561 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:07:56,723 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:07:56,723 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:07:56,723 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:07:56,723 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:07:56,977 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:07:56,977 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:07:56,977 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:07:56,977 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:07:56,977 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:07:56,977 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:07:56,979 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:07:56,979 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:07:56,979 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:08:21,287 - add_ai_content - INFO - Processing 1th prompt ..
+2024-01-16 18:08:21,287 - add_ai_content - INFO - Processing 1th prompt ..
+2024-01-16 18:08:21,287 - add_ai_content - INFO - Processing 1th prompt ..
+2024-01-16 18:08:47,836 - add_ai_content - INFO - Processing 2th prompt ..
+2024-01-16 18:08:47,836 - add_ai_content - INFO - Processing 2th prompt ..
+2024-01-16 18:08:47,836 - add_ai_content - INFO - Processing 2th prompt ..
+2024-01-16 18:09:14,489 - add_ai_content - INFO - Processing 3th prompt ..
+2024-01-16 18:09:14,489 - add_ai_content - INFO - Processing 3th prompt ..
+2024-01-16 18:09:14,489 - add_ai_content - INFO - Processing 3th prompt ..
+2024-01-16 18:09:57,438 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:09:57,438 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:09:57,438 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:11:28,139 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:11:28,139 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:11:28,139 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:11:28,363 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:11:28,363 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:11:28,363 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:11:28,364 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:11:28,620 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:11:28,620 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:11:28,620 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:11:28,621 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:11:28,621 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:11:28,621 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:14:50,694 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:14:50,694 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:14:50,694 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:14:50,881 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:14:50,881 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:14:50,881 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:14:50,881 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:14:51,136 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:14:51,136 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:14:51,136 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:14:51,136 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:14:51,136 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:14:51,136 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:14:51,139 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:14:51,139 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:14:51,139 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:15:15,867 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:15:15,892 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:15:16,115 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:15:16,115 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:15:16,115 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:15:16,115 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:15:16,372 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:15:16,372 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:15:16,375 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:15:49,648 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:16:18,674 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:16:53,152 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:17:24,514 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:17:52,392 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:18:40,033 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:18:48,554 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:18:48,856 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:18:48,857 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:18:48,857 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:18:48,857 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:18:49,112 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:18:49,113 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:18:49,115 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:19:15,937 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:20:23,482 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:20:55,250 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:20:55,250 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:20:55,968 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:20:55,968 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:20:56,107 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:20:56,107 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:20:56,107 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:20:56,511 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:20:56,511 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:20:56,511 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:20:56,511 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:20:56,513 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:20:56,513 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:21:23,847 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:21:23,847 - add_ai_content - INFO - Processing 0th prompt ..
+2024-01-16 18:23:41,029 - add_ai_content - INFO - Logger is activated
+2024-01-16 18:23:41,062 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:23:41,205 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:23:41,205 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:23:41,206 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:23:41,206 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:23:41,455 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:23:41,456 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 18:24:18,481 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 18:24:19,731 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 18:24:19,731 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 18:24:19,731 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 18:24:19,731 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 18:24:19,974 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 18:24:19,974 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:29:50,146 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:30:14,983 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:30:14,983 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:20,080 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:20,080 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:20,080 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:41,809 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:41,809 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:41,809 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:41,809 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:47:41,816 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:47:41,816 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:47:41,816 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:47:41,816 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:47:41,996 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:47:41,996 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:47:41,996 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:47:41,996 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:47:41,997 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:47:42,316 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:47:42,316 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:47:42,316 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:47:42,316 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:47:42,317 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:47:42,317 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:47:42,317 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:47:42,317 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:49:01,934 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:49:01,934 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:49:01,934 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:49:01,934 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:49:01,934 - add_ai_content - INFO - Logger is activated
+2024-01-16 19:49:01,939 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:49:01,939 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:49:01,939 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:49:01,939 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:49:01,939 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 19:49:02,131 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:49:02,131 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:49:02,131 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:49:02,131 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:49:02,131 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:49:02,131 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 19:49:02,489 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:49:02,489 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:49:02,489 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:49:02,489 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:49:02,489 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 19:49:02,489 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:49:02,489 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:49:02,489 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:49:02,489 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 19:49:02,489 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:14:39,145 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:14:41,897 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:14:41,897 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:14:57,491 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:14:57,491 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:14:57,491 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:15:25,433 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:15:25,433 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:15:25,433 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:15:27,288 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:15:27,288 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:15:27,288 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:15:27,288 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:15:27,289 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:15:27,289 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:15:27,289 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:15:27,610 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:15:27,610 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:15:27,610 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:15:27,610 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:15:27,610 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:15:27,610 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:18:19,379 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:19:04,876 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:19:04,876 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:19:16,665 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:19:16,665 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:19:16,808 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:19:16,808 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:19:16,808 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:19:16,808 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:19:16,809 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:19:16,809 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:19:16,809 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:19:16,809 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:19:17,096 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:19:17,096 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:19:17,096 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:19:17,096 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:32:32,057 - add_ai_content - INFO - Logger is activated
+2024-01-16 20:41:35,094 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:41:36,345 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:41:36,345 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:41:36,345 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:41:36,345 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:41:36,628 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:41:36,628 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:43:14,158 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:43:14,314 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:43:14,315 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:43:14,315 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:43:14,315 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:43:14,599 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:43:14,599 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:48:46,765 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:48:47,075 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:48:47,075 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:48:47,075 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:48:47,075 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:48:47,307 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:48:47,307 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:49:28,663 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:49:28,815 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:49:28,816 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:49:28,816 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:49:28,816 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:49:29,109 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:49:29,109 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:49:58,975 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:49:59,141 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:49:59,143 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:49:59,143 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:49:59,143 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:49:59,422 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:49:59,422 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:50:48,358 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:50:48,489 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:50:48,490 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:50:48,490 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:50:48,490 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:50:48,804 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:50:48,804 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 20:57:26,299 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 20:57:26,515 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 20:57:26,515 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 20:57:26,515 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 20:57:26,515 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 20:57:26,836 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 20:57:26,836 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 21:03:07,079 - add_ai_content - INFO - Logger is activated
+2024-01-16 21:04:14,931 - add_ai_content - INFO - Logger is activated
+2024-01-16 21:04:14,976 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 21:04:15,174 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 21:04:15,174 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 21:04:15,174 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 21:04:15,175 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 21:04:15,461 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 21:04:15,461 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-16 21:11:13,802 - add_ai_content - INFO - Logger is activated
+2024-01-16 21:11:13,842 - add_ai_content - INFO - Triggering GET Subjects List API ..
+2024-01-16 21:11:14,463 - add_ai_content - INFO - GET Request for added Subjects list successfull with status code 200
+2024-01-16 21:11:14,463 - add_ai_content - INFO - Subjects list has been retrieved successfully .. 
+2024-01-16 21:11:14,463 - add_ai_content - INFO - Processing subject - Mathematics
+2024-01-16 21:11:14,463 - add_ai_content - INFO - Triggering GET Chapters List API ..
+2024-01-16 21:11:14,764 - add_ai_content - INFO - GET Request for added Chapters list successfull with status code 200
+2024-01-16 21:11:14,764 - add_ai_content - INFO - Chapters list for subject - Mathematics has been retrieved successfully .. 
+2024-01-17 11:20:09,731 - add_ai_content - INFO - Logger is activated
+2024-01-31 11:24:25,277 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:24:40,421 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:24:40,421 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:25:02,706 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:25:02,706 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:25:02,706 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:26:06,370 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:26:06,370 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:26:06,370 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
+2024-01-31 11:26:06,370 - gen_ai_content - INFO - Logger is activated for GENERATING AI CONTENT
